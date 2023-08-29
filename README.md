@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://github.com/ohknewit/ohknewit/assets/113882749/35ffaa0c-57c2-40cb-bdc8-3e8cc28241ef)
+
+
 <!--
 **ohknewit/ohknewit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
