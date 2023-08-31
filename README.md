@@ -19,6 +19,6 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ohknewit&show_icons=true&theme=dark#gh-dark-mode-only#gh-light-mode-only" />
  </a>
- <h3> Hey! I am a 2nd Year who's currently enrolled  </h1>
+ <h3> Hey! I am a 2nd Year who's currently enrolled .... </h1>
 </p>
 
