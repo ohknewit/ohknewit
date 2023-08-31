@@ -14,7 +14,7 @@
       <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <a href= "https://www.ohknewit.dev/"> 
-      <img src = "https://img.shields.io/badge/Portfolio%20-2357A143?style=for-the-badge&logo=Java&logoColor=000000"/>
+      <img src = "https://img.shields.io/badge/Portfolio%20-9ACB72?style=for-the-badge&logo=Java&logoColor=000000"/>
     </a>
   </p> 
 
