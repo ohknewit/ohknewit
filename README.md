@@ -23,7 +23,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ohknewit&show_icons=true&theme=transparent"/>
   </a>
   <h3 align= center > Hey! :wave:  </h3>
-  <div align= center> I am a 2nd year student currenty enrolled in Orange Coast Community College whose expertise is in Python, C++, and Java! <br> --------------------------------------------------------------------- <h3 align = center> Projects 💻 </h3> <p align= center> <a href= "tbd"> <img align= "center" src= "https://img.shields.io/badge/AR%20Face%20Filter%20-ADD8E6?style=for-the-badge&logo=robotframework&logoColor=000000"/> </a> 
+  <div align= center> I am a 2nd year student currenty enrolled in Orange Coast Community College whose expertise is in Python, C++, and Java! <br> 
 </p>
   <br>
 </div>
