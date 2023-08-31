@@ -22,6 +22,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ohknewit&show_icons=true&theme=transparent"/>
   </a>
+ <br>
   <h3 align= center > Hey! :wave:  </h3>
   <div align= center> I am a 2nd year student currenty enrolled in Orange Coast Community College whose expertise is in Python, C++, and Java! <br> 
 </p>
