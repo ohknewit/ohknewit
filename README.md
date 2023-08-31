@@ -1,5 +1,11 @@
 
-![image](https://github.com/ohknewit/ohknewit/assets/113882749/35ffaa0c-57c2-40cb-bdc8-3e8cc28241ef)
+
+<p align=center> <img src= "https://github.com/ohknewit/ohknewit/assets/113882749/b864481c-19d2-4905-98f8-373b88a50e33" alt = "Coder Caterpie") </p> 
+
+
+
+
+
 
 
 <!--
