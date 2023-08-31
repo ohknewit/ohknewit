@@ -1,6 +1,6 @@
 <p align="center">
  <img src= "https://github.com/ohknewit/ohknewit/assets/113882749/016954af-fbe4-421f-8dfa-c0aa3ce01cbe)"/>
- <h2 align="center">Ohknewit's GitHub</h2>
+ <h1 align="center">Ohknewit's GitHub</h2>
 </p>
 
   <p align="center">
@@ -15,8 +15,10 @@
     </a>
   </p> 
 
-
-<p align = "center"
- <img src = "https://github-readme-stats.vercel.app/api?username=ohknewit&show_icons=true&theme=transparent"/>
-</p> 
+<p>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ohknewit&show_icons=true&theme=dark#gh-dark-mode-only#gh-light-mode-only" />
+ </a>
+ <h3> Hey! I am a 2nd Year who's currently enrolled  </h1>
+</p>
 
