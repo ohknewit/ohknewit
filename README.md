@@ -24,7 +24,7 @@
   </a>
  <br>
   <h3 align= center > Hey! :wave:  </h3>
-  <div align= center> I am a 2nd year student currenty enrolled in Orange Coast Community College whose expertise is in Python, C++, and Java! <br> 
+  <div align= center> I am a 2nd year student currently enrolled in Orange Coast Community College whose expertise is in Python, C++, and Java! <br> 
 </p>
   <br>
 </div>
