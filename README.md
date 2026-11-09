@@ -10,10 +10,7 @@
     <a href= "https://github.com/ohknewit">
       <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href= "https://www.ohknewit.dev/"> 
-      <img src = "https://img.shields.io/badge/Portfolio%20-2357A143?style=for-the-badge&logo=googledocs&logoColor=FFFFFF"/>
-    </a>
-  </p> 
+    
 
 <p>
   </a>
