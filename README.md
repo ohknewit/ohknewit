@@ -19,7 +19,7 @@
   </a>
  <br>
   <h3 align= center > Hey! :wave:  </h3>
-  <div align= center> Hello! I'm currently a junior in California State Polytechnic University, Pomona and I dabble RF and Power Electronics <br> 
+  <div align= center> Hello! I'm currently a junior at California State Polytechnic University, Pomona and I dabble RF and Power Electronics <br> 
 </p>
   <br>
 </div>
